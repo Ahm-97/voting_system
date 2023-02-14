@@ -1,0 +1,13 @@
+* {
+  color: #34679e;
+}
+
+body {
+  background-size: 40px 40px !important;
+  background-image: linear-gradient(
+      to right,
+      rgb(221, 220, 220) 1px,
+      transparent 1px
+    ),
+    linear-gradient(to bottom, rgb(221, 220, 220) 1px, transparent 1px) !important;
+}
