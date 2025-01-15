@@ -4,7 +4,6 @@ import { Box, Flex, Image, Progress, SimpleGrid, Text } from "@chakra-ui/react";
 import "./App.css";
 import { TimeIcon } from "@chakra-ui/icons";
 
-// logos
 import computiq from "./assets/logos/computiq.png";
 import cs50 from "./assets/logos/cs50.png";
 
